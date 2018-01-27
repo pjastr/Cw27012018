@@ -1,0 +1,5 @@
+C:\Users\local\Desktop\Damian Jacyna\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\local\Desktop\Damian Jacyna\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\local\Desktop\Damian Jacyna\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\local\Desktop\Damian Jacyna\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\local\Desktop\Damian Jacyna\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
