@@ -26,7 +26,7 @@ namespace ConsoleApplication1
 
         public static Singleton Create()
         {
-            if (instancja == null) return new Singleton();
+            if (instancja == null) instancja = new Singleton();
             return instancja;
         }
     }
